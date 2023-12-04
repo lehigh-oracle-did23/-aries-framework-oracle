@@ -32,5 +32,11 @@
     "@aries-framework/core": "^0.4.2",
     "axios": "^1.6.0",
     "tsyringe": "^4.8.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@jest/types": "^29.6.3"
   }
 }
